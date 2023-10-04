@@ -1,8 +1,21 @@
 {
-    "study": "Author of the study",
+    "es.study": "Author and year of the study with additional information",
+    "study": "Author and year of the study",
     "year": "Year of the study",
-    "es": "calculated effect size",
-    "se": "standard error of the calculated effect size",
-    "condition_arm1": "condition in the first arm (cbt = cognitive-behavioral therapy, pst = problem-solving therapy)",
-    "trggrp": "target group"
+    "country": "Region in which the study was conducted",
+    "rob": "Risk of bias assessment",
+    "disorder": "Type of mental health problem",
+    "therapy": "Psychological treatment studied",
+    "patient": "Age group of the patients",
+    "improved.ig": "Number of people in the intervention group who had improved at post-test",
+    "n.ig": "Total number of patients in the intervention group",
+    "improved.cg": "Number of people in the control group who had improved at post-test",
+    "n.cg": "Total number of patients in the control group",
+    "plogit.ig": "Logit-transformed proportion of improved patients in the intervention group",
+    "se.plogit.ig": "Standard error of the logit-transformed proportion of improved patients in the intervention group",
+    "plogit.cg": "Logit-transformed proportion of improved patients in the control group",
+    "se.plogit.cg": "Standard error of the logit-transformed proportion of improved patients in the control group",
+    "logrr": "Log-transformed relative risk of improving under treatment",
+    "se.logrr": "Standard error of the log-transformed relative risk of improving under treatment",
+    "reference": "Reference of the study"
 }
